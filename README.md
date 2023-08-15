@@ -1,2 +1,2 @@
-# Java-ile-Algoritmalar
-Java ile oluşturduğum algoritma uygulamaları
+# Java-Uygulamalari
+Java ile oluşturduğum uygulamalar
